@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackprogrammer1
 - 👀 I’m interested in Cyper Security
-- 🌱 I’m currently learning Kotlin - PHP 
+- 🌱 I’m currently learning Kotlin 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
